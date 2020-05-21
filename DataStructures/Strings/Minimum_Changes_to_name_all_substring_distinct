@@ -1,0 +1,12 @@
+t = int(input())
+for _ in range(t):
+    str_input = input()
+    a_dict = {}
+    result = 0
+    for i in str_input:
+        count = str_input.count(i)
+        a_dict[i] = count
+    for key,value in a_dict.items():
+        if value >1:
+            result = result + (value-1)
+    print(result)
