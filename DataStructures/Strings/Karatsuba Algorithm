@@ -1,0 +1,21 @@
+def Int_Val(i):
+    c = i[::-1]
+    sum = 0
+    for j in range(len(c)):
+        if c[j] == '1':
+            sum = sum + 2**j
+    return sum
+
+if __name__ == "__main__":
+    t = int(input())
+    while(t > 0):
+        input_list = list(input().split())
+        result = []
+        output = 1
+        for i in input_list:
+            int_val = Int_Val(i)
+            result.append(int_val)
+        for k in result:
+            output = output * k
+        print(output)
+        t=t-1
