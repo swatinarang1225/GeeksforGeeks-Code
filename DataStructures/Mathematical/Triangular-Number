@@ -1,0 +1,21 @@
+def FindTriangle(number):
+    i=1
+    sum = 0
+    while(sum < number):
+        sum =  sum + i
+        if sum < number :
+            i = i+1
+        elif sum == number:
+            print(1)
+            break
+        else:
+            print(0)
+            break
+    return (0)
+
+if __name__ == '__main__':
+    t = int(input())
+    while(t > 0):
+        number = int(input())
+        FindTriangle(number)
+        t = t-1
