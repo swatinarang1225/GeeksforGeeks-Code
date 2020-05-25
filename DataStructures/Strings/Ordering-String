@@ -1,0 +1,11 @@
+def Ordering(input_list,n):
+    print(min(input_list) + " " + max(input_list))
+
+
+if __name__ == "__main__":
+    t = int(input())
+    while(t > 0):
+        n = int(input())
+        input_list = list(input().split())
+        Ordering(input_list,n)
+        t = t-1
