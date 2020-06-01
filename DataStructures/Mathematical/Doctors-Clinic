@@ -1,0 +1,6 @@
+if __name__ == "__main__":
+    t = int(input())
+    while(t>0):
+        n_x = [int(x) for x in input().split()]
+        print(((10 -n_x[1])*(n_x[0]-1)))
+        t = t-1
