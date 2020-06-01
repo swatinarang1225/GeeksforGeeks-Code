@@ -1,0 +1,18 @@
+if __name__ == "__main__":
+    t = int(input())
+    while(t>0):
+        N = int(input())
+        tom = 1
+        jerry = 0
+        for i in range(1,N+1):
+            if i%2 == 0:
+                if N%i == 0:
+                    tom = tom+1
+            else:
+                if N%i == 0:
+                    jerry = jerry+1
+        if tom > jerry:
+            print(1)
+        else:
+            print(0)
+        t = t-1
