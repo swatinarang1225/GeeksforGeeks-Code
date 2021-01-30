@@ -5,8 +5,13 @@
     b) you can use in built function toupper() and tolower().
     
   2. For Concatenation of the String we can use '+' operator between 2 strings or can use the inbuilt function STRCAT(s1,s2).
+  
   3. There are many different ways to reverse a String:
     a) Use inbuilt function reverse().
     b) Using Swapping characters.
     c) Reverse by Copying string from Right to Left
     d) Can copy string in new string and replace the value of the old string.
+    
+  4. There are inbuilt functions;
+     a) isdigit(s1) : this returns true if s1 is digit.
+     b) isalpha(s1) : this return true if s1 is an aplhabet.
