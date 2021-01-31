@@ -15,3 +15,5 @@
   4. There are inbuilt functions;
      a) isdigit(s1) : this returns true if s1 is digit.
      b) isalpha(s1) : this return true if s1 is an aplhabet.
+     
+ 
