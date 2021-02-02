@@ -14,6 +14,13 @@
     
   4. There are inbuilt functions;
      a) isdigit(s1) : this returns true if s1 is digit.
-     b) isalpha(s1) : this return true if s1 is an aplhabet.
+     b) isalpha(s1) : this return true if s1 is an alphabet.
+   
+  5. The best way to  reverse the vowels or consonants in a particular string is :
+     a) Take 2 pointers, one for starting of the string and another for end of the string.
+     b) check if element is vowel from both ends.
+     c) If not vowel, then either  increase the pointer from start or decrease the pointer from the end accordingly.
+     d) Do swapping if both are vowels.
+     
      
  
