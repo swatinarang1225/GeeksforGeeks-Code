@@ -1,0 +1,23 @@
+TEST CASE 1:
+
+Input:
+str = geeksforgeeks
+patt = set
+Output: 1
+Explanation: e is the character which is
+present in given str "geeksforgeeks"
+and is also presen in patt "set". Minimum
+index of e is 1.
+
+
+TEST CASE 2:
+
+Input:
+str = adcffaet
+patt = onkl
+Output: -1
+Explanation: There are none of the
+characters which is common in patt
+and str.
+
+
