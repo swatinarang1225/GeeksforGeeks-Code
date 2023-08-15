@@ -13,3 +13,5 @@ Constraints:
 1 ≤ |str|,|patt| ≤ 105 
 'a' <= stri, patti <= 'z'
 
+### Note: Code1.cpp files contain the solution to this problem using sets and Code2.cpp files contain the solution using Vector. Both the solutions are accurate and was able to pass all the provided Test Cases at geeksforgeeks.
+
