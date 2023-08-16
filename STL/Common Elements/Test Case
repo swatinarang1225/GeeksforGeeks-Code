@@ -1,0 +1,11 @@
+TEST CASE 1
+
+Input:
+n = 5
+v1[] = {3, 4, 2, 2, 4}
+m = 4
+v2[] = {3, 2, 2, 7}
+Output:
+2 2 3
+Explanation:
+The common elements in sorted order are {2 2 3}
