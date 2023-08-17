@@ -1,0 +1,11 @@
+TEST CASE 1:
+
+Input: S = "zsyle", patt = "bjz"
+Output: "z"
+
+TEST CASE 2:
+
+Input: S = "anskg", patt = "me"
+Output: "$"
+
+
