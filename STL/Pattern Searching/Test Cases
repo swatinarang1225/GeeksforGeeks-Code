@@ -1,0 +1,13 @@
+TEST CASE 1
+
+Input:
+
+2
+abcdefh
+bcd
+axzy
+xy
+
+Output:
+Present
+Not present
