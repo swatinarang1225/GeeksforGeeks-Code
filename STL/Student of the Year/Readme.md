@@ -1,0 +1,1 @@
+Given a vector containing name of N student (in lowercase letters) and their marks in an exam. The task is to sort the students with respect to their marks (student with highest marks will be on top). If marks are same, consider lexicographic sorting for names.
