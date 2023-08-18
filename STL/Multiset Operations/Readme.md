@@ -1,0 +1,1 @@
+You are given an array A of size N. you need to insert the elements of A into a multiset and display the results. Also, you need to erase a given element x from the multiset and print "erased x" if successfully erased, else print "not found".
