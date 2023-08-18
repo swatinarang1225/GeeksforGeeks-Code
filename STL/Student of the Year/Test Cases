@@ -1,0 +1,17 @@
+TEST CASE 1
+
+Input:
+N = 4
+michal 56
+john 100
+abbas 98
+jordan 45
+Output: 
+john 100
+abbas 98
+michal 56
+jordan 45
+Explanation:
+Marks of students in decreasing order is
+as 100, 98, 56, 45. So, their names are
+as john 100, abbas 98, michal 56, jordan 45.
