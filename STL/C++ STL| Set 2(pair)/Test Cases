@@ -1,0 +1,34 @@
+TEST CASE 1:
+
+Example:
+
+Input
+2
+5
+a ga 4 5 a ra 1 2 a sh 1 1 d c
+4
+a geeks 10 12  a code 11 11 b c
+
+Output
+sh 1 1 ra 1 2 ga 4 5 
+geeks 10 12 code 11 11
+
+
+Explanation :
+For the first test case
+There are five queries. Queries are performed in this order
+1. a ga 4 5   --> vector contents {ga,4,5} 
+2. a ra 1 2    --> vector contents {ga,4,5}, {ra,1,2}
+3. a sh 1 1    --> vector contents are {ga,4,5}, {ra,1,2}, {sh,1,1}
+4. d               --> vector get sorted as {sh,1,1}, {ra,1,2}, {ga,4,5}
+5. c               --> vector values printed as 'sh 1 1 ra 1 2 ga 4 5 ' without quotes 
+
+For the sec test case 
+There are four queries. Queries are performed in this order
+1. a geeks 10 12 --> vector A has {geeks,10,12}  
+2. a code 11 11   --> vector A has {geeks,10,12}, {code,11,11}
+3. b       --> prints the size of the vector A ie 2
+4. c       --> prints the elements of the pair of vectors as 'geeks 10 12 code 11 11' without quotes.
+
+
+Note:The Input/Output format and Example given are used for system's internal purpose, and should be used by a user for Expected Output only. As it is a function problem, hence a user should not read any input from stdin/console. The task is to complete the function specified, and not to write the full code.
