@@ -1,0 +1,24 @@
+TEST CASE 1:
+
+Input:
+abd
+
+Ouput:
+6
+
+Explanation:
+str = abd. The 6 unique substrings 
+are {a, b, d, ab, bd, abd}.
+
+TEST CASE 2:
+
+Input:
+jaja
+
+Ouput:
+7
+
+Explanation:
+str = jaja. The substrings will be j, a, j, a, 
+ja, aj, ja, jaj, aja, jaja. Out of these the 
+unique are j, a, ja, aj, jaj, aja, jaja.
