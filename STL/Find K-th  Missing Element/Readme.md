@@ -1,0 +1,1 @@
+Given two sequences, one is increasing sequence a[] and another a normal sequence b[], find the K-th missing element in the increasing sequence which is not present in the given sequence. If no K-th missing element is there output -1
