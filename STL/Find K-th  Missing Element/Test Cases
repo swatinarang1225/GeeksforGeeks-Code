@@ -1,0 +1,17 @@
+TEST CASE 1:
+
+Input : Arr[] = {0, 2, 4, 6, 8, 10, 12, 14, 15}
+Brr[] = {4, 10, 6, 8, 12} and K = 3
+Output : 14
+Explanation:
+The numbers from increasing sequence that
+are not present in the given sequence are 0, 2, 14, 15.
+The 3rd missing number is 14.
+
+TEST CASE 2:
+
+Input : Arr[] = {1, 2, 3, 4, 5}
+Brr[] = {5, 4, 3, 1, 2} and K = 3
+Output : -1
+
+
