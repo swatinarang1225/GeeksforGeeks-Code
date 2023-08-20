@@ -1,0 +1,17 @@
+TEST CASE 1:
+
+Input:
+010100010010 3
+Output:
+ 6
+Exaplanation:
+Unique substrings are “010” and “100”.
+The required sum is 2+4=6.
+
+TEST CASE 2:
+
+
+Input:
+00100110 4
+Output:
+8
