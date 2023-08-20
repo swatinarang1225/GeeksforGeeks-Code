@@ -1,0 +1,16 @@
+TEST CASE 1:
+
+Input: n = 20
+Output: 1 2
+        6
+Explaination: 20 can be written as 22 * 5. The 
+ordered pair is 2 1 and the factors are 1, 2, 4, 
+5, 10, 20.
+
+TEST CASE 2:
+
+Input: n = 13
+Output: 1
+        2
+Explaination: 13 itself is a prime number 
+and it has two factors 1 and 13.
