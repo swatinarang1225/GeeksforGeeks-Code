@@ -1,0 +1,17 @@
+TEST CASE 1:
+
+Input : str = "geeksforgeeks"
+Output: 1
+Explanation: All the repeated characters of the
+given string can be rearranged so that no 
+adjacent characters in the string is equal.
+Any correct rearrangement will show a output
+of 1.
+
+TEST CASE 2:
+
+Input : str = "bbbbb"
+Output: 0
+Explanation: Repeated characters in the string
+cannot be rearranged such that there should not
+be any adjacent repeated character.
