@@ -1,0 +1,19 @@
+Test Case 1:
+
+Input:
+1
+5
+5 4 3 2 1
+1 2 3 4 5
+
+Output:
+2
+Explanation:
+Minimum sum will be obtained by choosing
+number at the last index of first array i.e.
+5th element of the first array(1) and first
+index of the second array ie first element
+of second array (1).
+
+Sum=1+1=2 as their indexes are different
+but sum is minimum.
