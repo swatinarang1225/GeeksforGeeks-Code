@@ -1,0 +1,16 @@
+TEST CASE 1:
+
+Input:
+N = 5
+Arr[] = {15, 2, 45, 12, 7}
+Output: 2
+Explanation: Only Arr[2] = 2 exists here.
+
+
+TEST CASE 2:
+
+Input: 
+N = 1
+Arr[] = {1}
+Output: 1
+Explanation: Here Arr[1] = 1 exists.
