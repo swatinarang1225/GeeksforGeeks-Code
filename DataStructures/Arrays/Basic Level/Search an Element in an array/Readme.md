@@ -1,5 +1,5 @@
-##PROBLEM STATEMENT
-###Given an integer array and another integer element. The task is to find if the given element is present in array or not.
+## PROBLEM STATEMENT
+### Given an integer array and another integer element. The task is to find if the given element is present in array or not.
 
 TASK
 
