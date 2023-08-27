@@ -1,0 +1,11 @@
+TEST CASE 1:
+
+Input:
+s = Geeks
+Output: skeeG
+
+TEST CASE 2:
+
+Input:
+s = for
+Output: rof
