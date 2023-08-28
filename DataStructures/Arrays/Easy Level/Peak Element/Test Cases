@@ -1,0 +1,23 @@
+TEST CASE 1:
+
+Input: 
+N = 3
+arr[] = {1,2,3}
+Possible Answer: 2
+Generated Output: 1
+Explanation: index 2 is 3.
+It is the peak element as it is 
+greater than its neighbour 2.
+If 2 is returned then the generated output will be 1 else 0.
+
+TEST CASE 2:
+
+Input:
+N = 3
+arr[] = {3,4,2}
+Possible Answer: 1
+Output: 1
+Explanation: 4 (at index 1) is the 
+peak element as it is greater than 
+it's neighbor elements 3 and 2.
+If 1 is returned then the generated output will be 1 else 0.
