@@ -1,0 +1,19 @@
+TEST CASE 1:
+
+Input:
+N = 4
+a[] = {0,3,1,2}
+Output: 
+-1
+Explanation: 
+There is no repeating element in the array. Therefore output is -1.
+
+TEST CASE 2:
+
+Input:
+N = 5
+a[] = {2,3,1,2,3}
+Output: 
+2 3 
+Explanation: 
+2 and 3 occur more than once in the given array.
