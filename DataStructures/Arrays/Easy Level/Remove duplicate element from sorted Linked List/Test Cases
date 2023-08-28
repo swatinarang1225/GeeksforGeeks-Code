@@ -1,0 +1,17 @@
+TEST CASE 1:
+
+Input:
+LinkedList: 2->2->4->5
+Output: 2 4 5
+Explanation: In the given linked list 
+2 ->2 -> 4-> 5, only 2 occurs more 
+than 1 time. So we need to remove it once.
+
+TEST CASE 2:
+
+Input:
+LinkedList: 2->2->4->5
+Output: 2 4 5
+Explanation: In the given linked list 
+2 ->2 -> 4-> 5, only 2 occurs more 
+than 1 time. So we need to remove it once.
