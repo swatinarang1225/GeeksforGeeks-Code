@@ -1,0 +1,15 @@
+TEST CASE 1:
+
+Input:
+N = 6, X = 16
+Arr[] = {1, 4, 45, 6, 10, 8}
+Output: Yes
+Explanation: Arr[3] + Arr[4] = 6 + 10 = 16
+
+TEST CASE 2:
+
+Input:
+N = 5, X = 10
+Arr[] = {1, 2, 4, 3, 6}
+Output: Yes
+Explanation: Arr[2] + Arr[4] = 4 + 6 = 10
