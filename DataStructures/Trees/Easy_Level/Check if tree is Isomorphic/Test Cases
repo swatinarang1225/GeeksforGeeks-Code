@@ -1,0 +1,19 @@
+TEST CASE 1:
+
+Input:
+ T1    1     T2:   1
+     /   \        /  \
+    2     3      3    2
+   /            /
+  4            4
+Output: No
+
+TEST CASE 2:
+
+Input:
+T1    1     T2:    1
+    /  \         /   \
+   2    3       3     2
+  /                    \
+  4                     4
+Output: Yes
