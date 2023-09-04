@@ -1,0 +1,35 @@
+TEST CASE 1:
+
+Input: 
+n = 5, m = 4
+mat = {{'X', 'X', 'X', 'X'}, 
+       {'X', 'O', 'X', 'X'}, 
+       {'X', 'O', 'O', 'X'}, 
+       {'X', 'O', 'X', 'X'}, 
+       {'X', 'X', 'O', 'O'}}
+Output: 
+ans = {{'X', 'X', 'X', 'X'}, 
+       {'X', 'X', 'X', 'X'}, 
+       {'X', 'X', 'X', 'X'}, 
+       {'X', 'X', 'X', 'X'}, 
+       {'X', 'X', 'O', 'O'}}
+Explanation: 
+Following the rule the above matrix is the resultant matrix.
+
+TEST CASE 2:
+
+Input: 
+n = 5, m = 4
+mat = {{'X', 'O', 'X', 'X'}, 
+       {'X', 'O', 'X', 'X'}, 
+       {'X', 'O', 'O', 'X'}, 
+       {'X', 'O', 'X', 'X'}, 
+       {'X', 'X', 'O', 'O'}}
+Output: 
+ans = {{'X', 'O', 'X', 'X'}, 
+       {'X', 'O', 'X', 'X'}, 
+       {'X', 'O', 'O', 'X'}, 
+       {'X', 'O', 'X', 'X'}, 
+       {'X', 'X', 'O', 'O'}}
+Explanation: 
+Following the rule the above matrix is the resultant matrix.
