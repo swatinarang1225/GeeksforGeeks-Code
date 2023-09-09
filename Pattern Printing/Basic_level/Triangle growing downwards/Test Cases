@@ -1,0 +1,23 @@
+TEST CASE 1:
+
+Input:
+str = "geeks"
+
+Output:
+....g
+...ge
+..gee
+.geek
+geeks
+
+TEST CASE 2:
+
+Input:
+str = "thisi"
+
+Output:
+....t
+...th
+..thi
+.this
+thisi
