@@ -1,0 +1,19 @@
+TEST CASE 1:
+
+Input: PROGRAM 
+Output:
+G$ GR$ GRA$ GRAM$ 
+GRAMP$ GRAMPR$ GRAMPRO$
+
+TEST CASE 2:
+
+Input: RAT
+Output:
+A$ AT$ ATR$
+
+NOTE: 
+Corresponding to each test case in a new 
+line print the pattern in a  single 
+line where each row of the pattern 
+is separated by a "$" instead 
+of a new line.
