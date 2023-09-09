@@ -1,0 +1,13 @@
+TEST CASE 1:
+
+Input : N = 3
+Output: 16
+Explanation: Speed of jet after 3rd mile
+is 16.
+
+TEST CASE 2:
+
+Input: N = 5
+Output: 81
+Explanation: Speed of jet after 5th mile 
+is 81.
