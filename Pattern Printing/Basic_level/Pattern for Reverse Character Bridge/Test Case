@@ -1,0 +1,20 @@
+TEST CASE 1:
+
+Input:
+N = 5
+Output:
+ABCDEDCBA
+ABCD DCBA
+ABC   CBA
+AB     BA
+A       A
+
+TEST CASE 2:
+
+Input:
+N = 4
+Output:
+ABCDCBA
+ABC CBA
+AB   BA
+A     A
