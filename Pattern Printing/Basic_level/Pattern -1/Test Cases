@@ -1,0 +1,21 @@
+TEST CASE 1:
+
+Input:
+N = 4
+Output:
+ABCD
+E$$F
+G$$H
+IJKL
+
+TEST CASE 2:
+
+Input:
+N = 6
+Output:
+ABCDEF
+G$$$$H
+I$$$$J
+K$$$$L
+M$$$$N
+OPQRST
